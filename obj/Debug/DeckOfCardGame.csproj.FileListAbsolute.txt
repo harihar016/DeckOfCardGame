@@ -1,0 +1,6 @@
+D:\Tutorials\DeckOfCardGame\bin\Debug\DeckOfCardGame.exe.config
+D:\Tutorials\DeckOfCardGame\bin\Debug\DeckOfCardGame.exe
+D:\Tutorials\DeckOfCardGame\bin\Debug\DeckOfCardGame.pdb
+D:\Tutorials\DeckOfCardGame\obj\Debug\DeckOfCardGame.exe
+D:\Tutorials\DeckOfCardGame\obj\Debug\DeckOfCardGame.pdb
+D:\Tutorials\DeckOfCardGame\obj\Debug\DeckOfCardGame.csprojAssemblyReference.cache
